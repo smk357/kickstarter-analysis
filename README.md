@@ -66,10 +66,10 @@ The graph indicates that the percentage success rate decreases with increasing g
 
 ### Limitations and Alternative Analyses
 
-There were two main limitations of the dataset. Firstly, it did not include results from wesbite user-surveys. For instance, data generated from Kickstarter donors regarding why they did or did decide to fund a campaign, or quantitative data comparing dononations made to donations considered, would have been useful in drawing further conclusions regarding the relationship between outcomes and preferences for various subcategories based on launch date, funding requirements, etc.
+There were two main limitations of the dataset. Firstly, it did not include data from wesbite user surveys. Possible examples include: data generated from Kickstarter website surveys such as reasons for funding a campaign, and quantitative data comparing donations made to donations considered. These would have been useful in drawing further conclusions regarding the relationship between outcomes and preferences for various subcategories based on launch date, funding requirements, etc.
 
-Secondly, the dataset only included data from Kickstarter, which is only one of several widely-used crowdfunding platforms. The dataset is therefore naturally limited in its representation of overall patterns of funding for various ventures.
+Secondly, the dataset only included data from Kickstarter, which is only one of several widely-used crowdfunding platforms. The dataset is therefore naturally limited in representing overall funding for various ventures.
 
-The analysis could have used alternative visualization techniques to highlight other key relationships in the data. For example, useful insights could be gained by tabulating data around outcomes versus launch *and* deadline dates - these could be used to plot line graphs comparing success rates and length of funding campaign. This would allows to make recommendations regarding not just *when* to start a successful theater campaign, but *how long* to run one as well.
+The analysis could have used alternative visualization techniques to highlight other key relationships in the data. For example, useful insights could be gained by tabulating data around outcomes versus launch *and* deadline dates - these could be used to plot line graphs comparing success rates and length of funding campaigns. This would enable recommendations regarding not just *when* to start a successful theater campaign, but *how long* to run one as well.
 
 

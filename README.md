@@ -50,12 +50,26 @@ The line chart resulting from the pivot table is as follows:
 
 ![image](https://user-images.githubusercontent.com/79061124/110253024-22a3b080-7f56-11eb-975f-6806a297e166.png)
 
-The graph indicates that the peak of successful theater outcomes was in the month of May, with the highest values occuring between the months of late spring and fall. **We can conclude that the summer months offer the best chance of lauching a successful theater Kickstarter funding campaign**.
+The graph indicates that the peak of successful theater outcomes was in the month of May, with the highest values occuring between the months of late spring and fall. **We can conclude that the late spring and summer months offer the best chance of lauching a successful theater Kickstarter funding campaign**.
 
-Another conclusion from the results is that **the line for canceled outcomes demonstrated that there was no statistically significat relationship between the likelyhood of cancellation and the launch date**.
+Another conclusion from the results is that **there was no statistically significant relationship between the likelihood of cancellation and the launch date**.
 
 ### 2. Outcomes based on Funding Goals for Plays
 
-The resulting line chart from our table of funding goal ranges and outcomes is as follows:
+The resulting line chart from our table of funding goal ranges and outcomes for plays is as follows:
 
 ![image](https://user-images.githubusercontent.com/79061124/110253339-ce013500-7f57-11eb-9e22-3d02c5bee5a1.png)
+
+The graph indicates that the percentage success rate decreases with increasing goal ranges up to $30,000. Between $30,000 and $40,000, the percentage success rate increases with increasing funding range. The percentage succcess rate then decreases for goal ranges above $45,000.
+
+**We can conclude that for plays that have moderate funding requirements (below $30,000), plays with lower funding requirements have a higher likelihood of being successfully funded.
+
+### Limitations and Alternative Analyses
+
+There were two main limitations of the dataset. Firstly in did not include results from wesbite user-surveys. For instance, data generated from Kickstarter donors regarding why they did or did decide to fund a campaign, or quantitative data comparing dononations made to donations considered, would have been useful in drawing further conclusions regarding the relationship between outcomes and preferences for various subcategories based on launch date, funding requirements, etc.
+
+Secondly, the dataset only included data from Kickstarter, which is only one of several widely-used crowdfunding platforms. The dataset is therefore naturally limited in its representation of overall patterns of funding for various ventures.
+
+The analysis could have used alternative visualization techniques to highlight other key relationships in the data. For example, useful insights could be gained by tabulating data around outcomes versus launch *and* deadline dates - these could be used to plot line graphs comparing success rates and length of funding campaign. This would allows to make recommendations regarding not just *when* to start a successful theater campaign, but *how long* to run one as well.
+
+

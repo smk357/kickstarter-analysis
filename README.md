@@ -66,7 +66,7 @@ The graph indicates that the percentage success rate decreases with increasing g
 
 ### Limitations and Alternative Analyses
 
-There were two main limitations of the dataset. Firstly in did not include results from wesbite user-surveys. For instance, data generated from Kickstarter donors regarding why they did or did decide to fund a campaign, or quantitative data comparing dononations made to donations considered, would have been useful in drawing further conclusions regarding the relationship between outcomes and preferences for various subcategories based on launch date, funding requirements, etc.
+There were two main limitations of the dataset. Firstly, it did not include results from wesbite user-surveys. For instance, data generated from Kickstarter donors regarding why they did or did decide to fund a campaign, or quantitative data comparing dononations made to donations considered, would have been useful in drawing further conclusions regarding the relationship between outcomes and preferences for various subcategories based on launch date, funding requirements, etc.
 
 Secondly, the dataset only included data from Kickstarter, which is only one of several widely-used crowdfunding platforms. The dataset is therefore naturally limited in its representation of overall patterns of funding for various ventures.
 

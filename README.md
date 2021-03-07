@@ -38,7 +38,7 @@ Finally, the percentage values were calculated, populating the whole table as fo
 A line chart was subsequently created to determine the relationship between the percentage counts of outcome and funding goal range (see **Results**).
 
 
-## Challenges
+### Challenges
 
 Challenges in the analysis were limited to the functionality of Excel. For instance, the order of the operands in the *countifs()* function is not obvious, and Excel lacks the ability to sepcify an input range without relying on multiple criteria. This was overcome by alternating the order of the operands and comparing the results.
 
@@ -50,4 +50,12 @@ The line chart resulting from the pivot table is as follows:
 
 ![image](https://user-images.githubusercontent.com/79061124/110253024-22a3b080-7f56-11eb-975f-6806a297e166.png)
 
+The graph indicates that the peak of successful theater outcomes was in the month of May, with the highest values occuring between the months of late spring and fall. **We can conclude that the summer months offer the best chance of lauching a successful theater Kickstarter funding campaign**.
 
+Another conclusion from the results is that **the line for canceled outcomes demonstrated that there was no statistically significat relationship between the likelyhood of cancellation and the launch date**.
+
+### 2. Outcomes based on Funding Goals for Plays
+
+The resulting line chart from our table of funding goal ranges and outcomes is as follows:
+
+![image](https://user-images.githubusercontent.com/79061124/110253339-ce013500-7f57-11eb-9e22-3d02c5bee5a1.png)
